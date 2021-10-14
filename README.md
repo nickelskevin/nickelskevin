@@ -6,7 +6,7 @@ I am the Chief Product Officer and one of three cofounders of [The @ Company](ht
 
 More about my background is on my [LinkedIn Profile](https://linkedin.com/in/nickelskevin/).
 
-Check out my [@persona page](https://atsign.directory/kevin).
+Check out my [@wavi.ng page](https://atsign.directory/kevin).
 
 ### Github repos that I work on
 * [The @ Foundation](https://github.com/atsign-foundation) open source repo with the protocol specification, reference implementation, SDKs, libraries and documentation for the @platform.
